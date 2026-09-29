@@ -1,0 +1,4 @@
+# имя адрес — по одному сайту на строку
+po-domeda.ru https://po-domeda.ru/up
+alexeyponomarev.ru https://alexeyponomarev.ru/up
+dompitomcev.ru https://dompitomcev.ru/
