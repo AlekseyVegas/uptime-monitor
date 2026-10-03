@@ -2,3 +2,4 @@
 po-domeda.ru https://po-domeda.ru/up
 alexeyponomarev.ru https://alexeyponomarev.ru/up
 dompitomcev.ru https://dompitomcev.ru/
+napishi-clientu.ru https://napishi-clientu.ru/up
