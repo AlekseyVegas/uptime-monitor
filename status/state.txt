@@ -1,4 +1,4 @@
-po-domeda.ru up
-alexeyponomarev.ru up
-dompitomcev.ru up
-napishi-clientu.ru up
+po-domeda.ru down
+alexeyponomarev.ru down
+dompitomcev.ru down
+napishi-clientu.ru down
